@@ -58,6 +58,29 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 <br>
 <hr>
 
+![ChatGPT 1M in 5 days](./images/plot_chatgpt_1m_5days.jpg)
+
+<br>
+&nbsp;
+<br>
+<hr>
+
+
+![txt2img AI Models](./images/img_ai_txt2img_big3.jpg)
+
+<br>
+&nbsp;
+<br>
+<hr>
+
+![LexicaArt Gallary](./images/lexicaart_gallary.jpg)
+
+<br>
+&nbsp;
+<br>
+<hr>
+
+
 
 ![ChatGPT Homescreen](./images/chatgpt_homescreen.jpg)
 
@@ -67,10 +90,17 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 <br>
 <hr>
 
-![ChatGPT Homescreen](./images/plot_chatgpt_1m_5days.jpg)
+![GenAI Plagiarism Detection](./images/genai_plagiarism_detection.jpg)
 
 <br>
 &nbsp;
 <br>
 <hr>
 
+
+![AI Timeline Pre-ChatGPT](./images/timeline_pre_chatgpt.jpg)
+
+<br>
+&nbsp;
+<br>
+<hr>
