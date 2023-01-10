@@ -1,4 +1,4 @@
-# **How Writing and Art Generative AI Models Work and Will Change Education**
+# **From Prompts to Plagiarism: How Writing and Art Generative AI Works and Will Change Education**
 
 ### An IPHS Faculty/Student Roundtable sponsored by the AI DHColab
 ### Kenyon College, Jan 2023
