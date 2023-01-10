@@ -1,9 +1,5 @@
 # **How Writing and Art Generative AI Models Work and Will Change Education**
 
-### https://github.com/jon-chun/generative_ai_roundtable
-
----
-
 ### An IPHS Faculty/Student Roundtable sponsored by the AI DHColab
 ### Kenyon College, Jan 2023
 
