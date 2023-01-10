@@ -1,5 +1,9 @@
 # **How Writing and Art Generative AI Models Work and Will Change Education**
 
+### https://github.com/jon-chun/generative_ai_roundtable
+
+---
+
 ### An IPHS Faculty/Student Roundtable sponsored by the AI DHColab
 ### Kenyon College, Jan 2023
 
@@ -24,11 +28,15 @@ Come to our Roundtable to discuss:
 * The Basics of Generative AI Models
 * Current state-of-the-art capabilities/limitations
 * Research & Future Developments
+* Student Research Projects
 * Impact On Higher Education (e.g. plagiarism detection and new pedagogies) 
 
 Prof Katherine Elkins has published on literature, philosophy and aesthetics and, together with Jon Chun, has published some of the earliest work on generative AI in the Digital Humanities. They will be joined by students from a variety of disciplines who have used these AI models for a variety of IPHS AI DH projects from writing film beat sheets to exploring generative art.
 
 Bring your curiosity, skepticism and concerns to this community event sponsored by the Integrated Program for Humane Studies and the AI DHColab. 
+
+**References**
+* Coming...
 
 **Integrated Program for Humane Studies**
 * <a href="https://www.kenyon.edu/academics/departments-and-majors/integrated-program-in-humane-studies/">IPHS Home</a>
