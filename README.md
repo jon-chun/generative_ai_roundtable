@@ -1,4 +1,4 @@
-# **From Prompts to Plagiarism: How Writing and Art Generative AI Works and Will Change Education**
+# **ChatGPT and AI Art: How They Work, Where They’re Going and What it Means for Higher Education**
 
 ### An IPHS Faculty/Student Roundtable sponsored by the AI DHColab
 ### Kenyon College, Jan 2023
@@ -32,9 +32,33 @@ Prof Katherine Elkins has published on literature, philosophy and aesthetics and
 
 Bring your curiosity, skepticism and concerns to this community event sponsored by the AI DHColab. 
 
-**References**
-* Coming...
+**ChatGPT**
+* <a href="https://chat.openai.com/auth/login?next=%2Fchat">ChatGPT</a>
 
+
+**Stable Diffusion**
+* <a href="">Stable Diffusion</a>
+* <a href="https://civitai.com/">CivitAt Model Hub</a>
+* <a href="https://www.youtube.com/watch?v=HAR6LjzTg5k">Video</a> on Protogen Models:
+  - <a href="https://civitai.com/models/3627/protogen-v22-official-release">v2.2 (Anime)</a> vs 
+  - <a href="https://civitai.com/models/3666/protogen-x34-official-release">x3.4 (Photorealism)</a>
+  -  with <a href="https://miro.com/app/board/uXjVP1DfqDg=/?share_link_id=306860251792">Miro Board Notes</a>
+* <a href="https://civitai.com/models/86/openjourney-aka-midjourney-v4">OpenJourney Model</a>
+
+**Sample AI Applications**
+* <a href="https://www.youtube.com/watch?v=ZFQ1WufLWwo">Midjourncy Designs a Shopify Website</a>
+* <a href="https://www.youtube.com/watch?v=K0cmmKPklp4">ChatGPT Takes an Astrophysics Exam</a>
+* <a href="https://www.youtube.com/watch?v=OV88YP34O8U">(One-shot) Midjourney Illustrates of a story written by ChatGPT, Narrated by Adobe</a> 
+* <a href="https://github.com/fauxpilot/fauxpilot">Write code</a>
+* <a href="https://qantarot.substack.com/p/chatgpt-and-galactica-are-taking     ">Write academic research papers</a>
+* <a href="https://twitter.com/hausman_k/status/1613544838900903937">Embodied AI (LLM + Robotics)</a>
+
+**Hosting**
+
+* <a href="https://colab.research.google.com/signup">Google Colab Pro ($9.99/mo)</a>
+* <a href="https://www.runpod.io">RunPod.io</a>
+
+---
 **Integrated Program for Humane Studies**
 * <a href="https://www.kenyon.edu/academics/departments-and-majors/integrated-program-in-humane-studies/">IPHS Home</a>
 * <a href="https://www.kenyon.edu/digital-humanities/">Digital Humanities</a>
@@ -66,6 +90,13 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 <br>
 <hr>
 
+
+![The Atlantic on ChatGPT: College Essay is Dead](./images/banner_theatlantic_thecollegeessayisdead_skull.jpg)
+
+<br>
+&nbsp;
+<br>
+<hr>
 
 ![txt2img AI Models](./images/img_ai_txt2img_big3.jpg)
 
