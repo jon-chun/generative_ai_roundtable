@@ -77,17 +77,25 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 <br>
 ChatGPT and Education: A Guide for Educators and a Look Towards the Future (***Pending***)
 <br>
+&nbsp;
+<br>
 **Alina Kalmeyer**
 <br>
 <a href="https://digital.kenyon.edu/dh_iphs_prog/61/">Do Androids Dream of Digital Art? Addressing the Spectrum of Perspectives on AI-Generated Artwork</a>
+<br>
+&nbsp;
 <br>
 **Raya Kenney**
 <br>
 <a href="https://digital.kenyon.edu/dh_iphs_prog/53/">Adjectivally-Oriented: Women Through the Decades Stylistic Shifts In Magazines As Represented By Image-Generating AI</a>
 <br>
+&nbsp;
+<br>
 **Graham O'Brien**
 <br>
 Examining Race using AI: AI Generated Images of Black and White Women's Hair (***Pending***)
+<br>
+&nbsp;
 <br>
 **Devon Turner**
 <br>
