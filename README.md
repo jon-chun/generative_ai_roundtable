@@ -31,12 +31,39 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 ---
 # **References**
 
-**ChatGPT**
+**GenerativeA AI**
+* <a href="https://github.com/steven2358/awesome-generative-ai">Awesome Generative AI</a>
+
+**ChatGPT Prompt Engineering**
+* <a href="https://github.com/openai/openai-cookbook">OpenAI Prompt Cookbook</a>
+* <a href="https://github.com/f/awesome-chatgpt-prompts">f/awesome-chatgpt-prompts</a>
+* <a href="https://github.com/thunlp/PromptPapers">Prompt Research Papers</a>
 * <a href="https://chat.openai.com/auth/login?next=%2Fchat">ChatGPT</a>
 
+**GPT Plagiarism Detection**
+* <a href="http://gltr.io/dist/index.html">Giant Language model Test Room</a>
+* <a href="https://openai-openai-detector.hf.space/">Huggingface OpenAI Detector</a>
+* <a href="http://gptzero.me/">GPTZero.me</a>
+* <a href="https://writer.com/ai-content-detector/">ai-content-detector</a>
+* <a href="https://originality.ai/">originality.ai</a> (paid)
+
+**AI Art Galleries**
+* <a href="https://lexica.art/">https://lexica.art/</a>
+* <a href="https://openart.ai/">https://openart.ai/</a>
+* <a href="https://www.midjourney.com/showcase/recent/">https://www.midjourney.com/showcase/recent/</a>
+
+**AI Art Communities**
+* <a href="https://aiartists.org/">https://aiartists.org/</a>
+* <a href="https://www.artaigallery.com/">https://www.artaigallery.com/</a>
+
+
+**AI Art Prompt Engineering**
+* <a href="https://openart.ai/promptbook">Stable Diffusion Prompt Book</a> by OpenArt.ai
+* <a href="https://strikingloo.github.io/DALL-E-2-prompt-guide">DALL-E 2 Prompt Guide</a> by Strikingloo
+* <a href="https://dallery.gallery/the-dalle-2-prompt-book/">DALL-E Guide</a> by dallery.gallery
 
 **Stable Diffusion**
-* <a href="">Stable Diffusion</a>
+* <a href="https://stability.ai/blog/stable-diffusion-public-release">Stable Diffusion (by stability.ai)</a>
 * <a href="https://civitai.com/">CivitAt Model Hub</a>
 * <a href="https://www.youtube.com/watch?v=HAR6LjzTg5k">Video</a> on Protogen Models:
   - <a href="https://civitai.com/models/3627/protogen-v22-official-release">v2.2 (Anime)</a> vs 
@@ -69,7 +96,7 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 
 # **Student Panelist** 
 ---
-### IPHS200 Fall 2022 Research Projects
+### AI Research Projects for IPHS200 Programming Humanity (Fall 2022)
 
 &nbsp;
 
