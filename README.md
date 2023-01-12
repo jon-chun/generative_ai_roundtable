@@ -1,15 +1,10 @@
-# **ChatGPT and AI Art: How They Work, Where They’re Going and What it Means for Higher Education**
+![Kenyon ChatGPT Roundtable](./images/kenyon_roundtable_chatgpt_20230117.png)
 
-### An IPHS Faculty/Student Roundtable sponsored by the AI DHColab
-### Kenyon College, Jan 2023
 
 <br>
 &nbsp;
 <br>
 
-![ChatGPT Headlines](./images/chatgpt_headlines.jpg)
-
-<br>
 
 Artificial Intelligence models that can generate writing and art have exploded into the public consciousness faster than any previous technology. Within only 5 days <a href="https://openai.com/blog/chatgpt/">ChatGPT</a> attracted one million users, a feat that took DALL-E, Instagram and the original iPhone each approximately 75 days to achieve.
 
@@ -31,6 +26,10 @@ Come to our Roundtable to discuss:
 Prof Katherine Elkins has published on literature, philosophy and aesthetics and, together with Jon Chun, has published some of the earliest work on generative AI in the Digital Humanities. They will be joined by students from a variety of disciplines who have used these AI models for a variety of IPHS AI DH projects from writing film beat sheets to exploring generative art.
 
 Bring your curiosity, skepticism and concerns to this community event sponsored by the AI DHColab. 
+
+&nbsp;
+---
+# **References**
 
 **ChatGPT**
 * <a href="https://chat.openai.com/auth/login?next=%2Fchat">ChatGPT</a>
@@ -65,38 +64,64 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 * <a href="https://digital.kenyon.edu/dh/">Student AI DH Research</a>
 * <a href="https://www.kenyon.edu/digital-humanities/courses/">IPHS DH Curriculum</a>
 
-**Kathrine Elkins**
 <br>
-<a href="https://www.kenyon.edu/directory/kate-elkins/">Website</a>
+&nbsp;
+
+# **Student Panelist** 
+---
+### IPHS200 Fall 2022 Research Projects
+
+&nbsp;
+
+**Penn Cancro**
 <br>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kateelkins.svg?style=social&label=Follow%20%40kateelkins)](https://twitter.com/kateelkins)
+ChatGPT and Education: A Guide for Educators and a Look Towards the Future (***Pending***)
+<br>
+**Alina Kalmeyer**
+<br>
+<a href="https://digital.kenyon.edu/dh_iphs_prog/61/">Do Androids Dream of Digital Art? Addressing the Spectrum of Perspectives on AI-Generated Artwork</a>
+<br>
+**Raya Kenney**
+<br>
+<a href="https://digital.kenyon.edu/dh_iphs_prog/53/">Adjectivally-Oriented: Women Through the Decades Stylistic Shifts In Magazines As Represented By Image-Generating AI</a>
+<br>
+**Graham O'Brien**
+<br>
+Examining Race using AI: AI Generated Images of Black and White Women's Hair (***Pending***)
+<br>
+**Devon Turner**
+<br>
+<a href="https://digital.kenyon.edu/dh_iphs_ss/18/">When AI Meet Screenwriting: Can AI Generate Beat Sheets and Storyboards?</a>
 
+<br>
+&nbsp;
+<br>
 
-**Jon Chun**
+# **AI DHColab IPHS Faculty** 
+---
+<strong>Kathrine Elkins</strong>
+<br>
+<a href="https://www.kenyon.edu/directory/kate-elkins/" rel="nofollow">Website</a>
+<br>
+<a href="https://twitter.com/kateelkins" rel="nofollow"><img src="https://camo.githubusercontent.com/a4dae234d8a1a1bbdef925058c0f07291fb185dcbe9e81dbacf54290bf4c9d43/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c2f68747470732f747769747465722e636f6d2f6b617465656c6b696e732e7376673f7374796c653d736f6369616c266c6162656c3d466f6c6c6f772532302534306b617465656c6b696e73" alt="Twitter URL" data-canonical-src="https://img.shields.io/twitter/url/https/twitter.com/kateelkins.svg?style=social&amp;label=Follow%20%40kateelkins" style="max-width: 100%;"></a>
+
+<strong>Jon Chun</strong>
 <br>
 <a href="https://github.com/jon-chun">Website</a>
 <br>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/jonchun2000.svg?style=social&label=Follow%20%40jonchun2000)](https://twitter.com/jonchun2000)
+<a href="https://twitter.com/jonchun2000" rel="nofollow"><img src="https://camo.githubusercontent.com/0f5c502fbf33840b897d954c02416c4ca154dad7e0a5c50eced9fab2da12a84e/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c2f68747470732f747769747465722e636f6d2f6a6f6e6368756e323030302e7376673f7374796c653d736f6369616c266c6162656c3d466f6c6c6f772532302534306a6f6e6368756e32303030" alt="Twitter URL" data-canonical-src="https://img.shields.io/twitter/url/https/twitter.com/jonchun2000.svg?style=social&amp;label=Follow%20%40jonchun2000" style="max-width: 100%;"></a>
+
+&nbsp;
+<hr>
+
+![ChatGPT Headlines](./images/chatgpt_headlines.jpg)
+
 
 <br>
 &nbsp;
 <br>
 <hr>
 
-![ChatGPT 1M in 5 days](./images/plot_chatgpt_1m_5days.jpg)
-
-<br>
-&nbsp;
-<br>
-<hr>
-
-
-![The Atlantic on ChatGPT: College Essay is Dead](./images/banner_theatlantic_thecollegeessayisdead_skull.jpg)
-
-<br>
-&nbsp;
-<br>
-<hr>
 
 ![txt2img AI Models](./images/img_ai_txt2img_big3.jpg)
 
