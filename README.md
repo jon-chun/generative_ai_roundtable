@@ -44,8 +44,9 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 * <a href="http://gltr.io/dist/index.html">Giant Language model Test Room</a>
 * <a href="https://openai-openai-detector.hf.space/">Huggingface OpenAI Detector</a>
 * <a href="http://gptzero.me/">GPTZero.me</a>
-* <a href="https://writer.com/ai-content-detector/">ai-content-detector</a>
+* <a herf="https://www.newscientist.com/article/2350655-openai-is-developing-a-watermark-to-identify-work-from-its-gpt-text-ai/">OpenAI GPT Watermark</a>
 * <a href="https://originality.ai/">originality.ai</a> (paid)
+* <a href="https://www.turnitin.com/blog/sneak-preview-of-turnitins-ai-writing-and-chatgpt-detection-capability">TurnItIn.com</a> (paid)
 
 **AI Art Galleries**
 * <a href="https://lexica.art/">https://lexica.art/</a>
@@ -55,7 +56,6 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 **AI Art Communities**
 * <a href="https://aiartists.org/">https://aiartists.org/</a>
 * <a href="https://www.artaigallery.com/">https://www.artaigallery.com/</a>
-
 
 **AI Art Prompt Engineering**
 * <a href="https://openart.ai/promptbook">Stable Diffusion Prompt Book</a> by OpenArt.ai
