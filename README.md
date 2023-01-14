@@ -48,12 +48,20 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 * <a href="https://originality.ai/">originality.ai</a> (paid)
 * <a href="https://www.turnitin.com/blog/sneak-preview-of-turnitins-ai-writing-and-chatgpt-detection-capability">TurnItIn.com</a> (paid)
 
+**GPT and the Death of the Essay**
+* <a href="https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/">The College Essay is Dead</a> by Stephen Marche, The Atlantic, Dec 6th, 2023
+* <a href="https://arxiv.org/abs/2212.11661">The Death of the Short-Form Physics Essay in the Coming AI Revolution (Dec 22th)</a>
+* <a href="https://arxiv.org/abs/2212.09292">ChatGPT: The End of Online Exam Integrity? (Dec 19th)</a>
+* <a href="https://arxiv.org/abs/2206.05442">Automatically Answering and Generating Machine Learning Final Exams (Jun 11th)</a>
+
+>
 **AI Art Galleries**
 * <a href="https://lexica.art/">https://lexica.art/</a>
 * <a href="https://openart.ai/">https://openart.ai/</a>
 * <a href="https://www.midjourney.com/showcase/recent/">https://www.midjourney.com/showcase/recent/</a>
 
 **AI Art Communities**
+* <a href="https://www.youtube.com/watch?v=o09F6TViIGk">The End of Original Art? Current Issues with AI Art and Ethics</a>
 * <a href="https://aiartists.org/">https://aiartists.org/</a>
 * <a href="https://www.artaigallery.com/">https://www.artaigallery.com/</a>
 
@@ -140,11 +148,23 @@ Examining Race using AI: AI Generated Images of Black and White Women's Hair (**
 <br>
 <a href="https://twitter.com/kateelkins" rel="nofollow"><img src="https://camo.githubusercontent.com/a4dae234d8a1a1bbdef925058c0f07291fb185dcbe9e81dbacf54290bf4c9d43/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c2f68747470732f747769747465722e636f6d2f6b617465656c6b696e732e7376673f7374796c653d736f6369616c266c6162656c3d466f6c6c6f772532302534306b617465656c6b696e73" alt="Twitter URL" data-canonical-src="https://img.shields.io/twitter/url/https/twitter.com/kateelkins.svg?style=social&amp;label=Follow%20%40kateelkins" style="max-width: 100%;"></a>
 
+When she was nine years old, Katherine Elkins started a family-run software company called Alcazar Associates with her father and brother. The company sold the first ever typing tutor as well as the first Star Wars video game. Her brother went on to work in AI at MIT, DragonSpeak, Batelle and Toyota Research. She went on to become a scholar of cognition, consciousness, and aesthetic experience with over a dozen published essays and two published books. She now also works in the “family business” of AI alongside Jon Chun, her husband. Together, they were the first to publish a method for surfacing the emotional arcs of stories. They were also some of the first to research and publish on AI language generation, and she speaks publicly about AI, most recently in an interview with UC Berkeley’s Cindy Mason on Radio AI. In her free time, she consults for both government and industry on AI and large language models like ChatGP, and this April she will help lead a workshop at Dartmouth’s Neukom Institute of Computational Science.  
+
+&nbsp;
+
 <strong>Jon Chun</strong>
 <br>
 <a href="https://github.com/jon-chun">Website</a>
 <br>
 <a href="https://twitter.com/jonchun2000" rel="nofollow"><img src="https://camo.githubusercontent.com/0f5c502fbf33840b897d954c02416c4ca154dad7e0a5c50eced9fab2da12a84e/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c2f68747470732f747769747465722e636f6d2f6a6f6e6368756e323030302e7376673f7374796c653d736f6369616c266c6162656c3d466f6c6c6f772532302534306a6f6e6368756e32303030" alt="Twitter URL" data-canonical-src="https://img.shields.io/twitter/url/https/twitter.com/jonchun2000.svg?style=social&amp;label=Follow%20%40jonchun2000" style="max-width: 100%;"></a>
+
+
+
+Jon Chun has undergraduate and graduate degrees in Computer Science and Electrical Engineering from UC Berkeley and UT Austin. He has done postgraduate fellowships and NSF research in gene therapy, electronic medical records, and semiconductors at the University of Iowa Medical School, MIT and SEMATECH. After working in large organizations including national labs, finance, and insurance, he co-founded startups in Japan, Brazil and Silicon Valley. He co-authored patents at his last startup to build the world’s largest privacy/anonymity service and designed the first web-based VPN linux appliance.  Immediately prior to coming to Kenyon, he was a Fortune 500 Director of Development for the world’s largest computer security company, entrepreneur in residence at UC Berkeley and judged startup competitions at Berkeley Engineering Graduate School and OSU. 
+
+&nbsp;
+<br>
+In 2020 he and Katherine Elkins published "Can GPT-3 pass a Writer’s Turing Test?" in the Journal of Cultural Analytics; one of the first critical reviews of generative AI with 60 academic citations currently. Last year they published "What the Rise of AI Means for Narrative Studies: A Response to ‘Why Computers Will Never Read (or Write) Literature’ by Angus Fletcher." in Narrative. He gave the first presentation on GPT-2 at the Narrative Conference in 2020 and this March is presenting “Augmenting Narrative Generation with Visual Imagery Using Integrated Prompt Engineering (ChatGPT, DALL-E 2)” at Narrative 2023. His 2023 article "Exploring the Black Box: Narrative XAI (eXplainable AI)" will appear in the International Journal of Digital Humanities (IJDH) 2023 Special Issue on "Reproducibility and Explainability in Digital Humanities".
 
 &nbsp;
 <hr>
