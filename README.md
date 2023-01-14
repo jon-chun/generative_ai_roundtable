@@ -31,16 +31,17 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 ---
 # **References**
 
-**GenerativeA AI**
+### **GenerativeA AI**
 * <a href="https://github.com/steven2358/awesome-generative-ai">Awesome Generative AI</a>
 
-**ChatGPT Prompt Engineering**
+### **ChatGPT Prompt Engineering**
 * <a href="https://github.com/openai/openai-cookbook">OpenAI Prompt Cookbook</a>
 * <a href="https://github.com/f/awesome-chatgpt-prompts">f/awesome-chatgpt-prompts</a>
 * <a href="https://github.com/thunlp/PromptPapers">Prompt Research Papers</a>
 * <a href="https://chat.openai.com/auth/login?next=%2Fchat">ChatGPT</a>
 
-**GPT Plagiarism Detection**
+### **GPT Plagiarism Detection**
+* <a href="https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/">Can AI Detectors Save Us From ChatGPT?</a> (13 Jan 2023)
 * <a href="http://gltr.io/dist/index.html">Giant Language model Test Room</a>
 * <a href="https://openai-openai-detector.hf.space/">Huggingface OpenAI Detector</a>
 * <a href="http://gptzero.me/">GPTZero.me</a>
@@ -48,29 +49,33 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 * <a href="https://originality.ai/">originality.ai</a> (paid)
 * <a href="https://www.turnitin.com/blog/sneak-preview-of-turnitins-ai-writing-and-chatgpt-detection-capability">TurnItIn.com</a> (paid)
 
-**GPT and the Death of the Essay**
+### **GPT Plagiarism Evasion**
+* <a href="http://www.trywordai.com">TryWordAI.com</a> (paid)
+* and many more free alternatives
+
+### **GPT and the Death of the Essay**
 * <a href="https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/">The College Essay is Dead</a> by Stephen Marche, The Atlantic, Dec 6th, 2023
 * <a href="https://arxiv.org/abs/2212.11661">The Death of the Short-Form Physics Essay in the Coming AI Revolution (Dec 22th)</a>
 * <a href="https://arxiv.org/abs/2212.09292">ChatGPT: The End of Online Exam Integrity? (Dec 19th)</a>
 * <a href="https://arxiv.org/abs/2206.05442">Automatically Answering and Generating Machine Learning Final Exams (Jun 11th)</a>
 
 >
-**AI Art Galleries**
+### **AI Art Galleries**
 * <a href="https://lexica.art/">https://lexica.art/</a>
 * <a href="https://openart.ai/">https://openart.ai/</a>
 * <a href="https://www.midjourney.com/showcase/recent/">https://www.midjourney.com/showcase/recent/</a>
 
-**AI Art Communities**
+### **AI Art Communities**
 * <a href="https://www.youtube.com/watch?v=o09F6TViIGk">The End of Original Art? Current Issues with AI Art and Ethics</a>
 * <a href="https://aiartists.org/">https://aiartists.org/</a>
 * <a href="https://www.artaigallery.com/">https://www.artaigallery.com/</a>
 
-**AI Art Prompt Engineering**
+### **AI Art Prompt Engineering**
 * <a href="https://openart.ai/promptbook">Stable Diffusion Prompt Book</a> by OpenArt.ai
 * <a href="https://strikingloo.github.io/DALL-E-2-prompt-guide">DALL-E 2 Prompt Guide</a> by Strikingloo
 * <a href="https://dallery.gallery/the-dalle-2-prompt-book/">DALL-E Guide</a> by dallery.gallery
 
-**Stable Diffusion**
+### **Stable Diffusion**
 * <a href="https://stability.ai/blog/stable-diffusion-public-release">Stable Diffusion (by stability.ai)</a>
 * <a href="https://civitai.com/">CivitAt Model Hub</a>
 * <a href="https://www.youtube.com/watch?v=HAR6LjzTg5k">Video</a> on Protogen Models:
@@ -79,7 +84,7 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
   -  with <a href="https://miro.com/app/board/uXjVP1DfqDg=/?share_link_id=306860251792">Miro Board Notes</a>
 * <a href="https://civitai.com/models/86/openjourney-aka-midjourney-v4">OpenJourney Model</a>
 
-**Sample AI Applications**
+### **Sample AI Applications**
 * <a href="https://www.youtube.com/watch?v=ZFQ1WufLWwo">Midjourncy Designs a Shopify Website</a>
 * <a href="https://www.youtube.com/watch?v=K0cmmKPklp4">ChatGPT Takes an Astrophysics Exam</a>
 * <a href="https://www.youtube.com/watch?v=OV88YP34O8U">(One-shot) Midjourney Illustrates of a story written by ChatGPT, Narrated by Adobe</a> 
@@ -87,7 +92,13 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 * <a href="https://qantarot.substack.com/p/chatgpt-and-galactica-are-taking     ">Write academic research papers</a>
 * <a href="https://twitter.com/hausman_k/status/1613544838900903937">Embodied AI (LLM + Robotics)</a>
 
-**Hosting**
+### **Try for Free** (as of 14 Jan 2023)
+* <a href="https://chat.openai.com">Open AI ChatGPT</a>
+* <a href="https://playgroundai.com/">PalyGroundAI.com</a>
+* <a href="https://lexica.art/">Lexica.art</a>
+* <a href="https://www.bluewillow.ai/">BlueWillow.ai</a>
+
+### **Hosting**
 
 * <a href="https://colab.research.google.com/signup">Google Colab Pro ($9.99/mo)</a>
 * <a href="https://www.runpod.io">RunPod.io</a>
@@ -170,8 +181,19 @@ In 2020 he and Katherine Elkins published "Can GPT-3 pass a Writer’s Turing Te
 <hr>
 
 ![ChatGPT Headlines](./images/chatgpt_headlines.jpg)
+<center>
+<a href="https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/">Can AI Detectors Save Us From ChatGPT? (13 Jan 2023)</a>
+</center>
+<br>
+&nbsp;
+<br>
+<hr>
 
 
+![AI Art is Theft](./images/ai_art_is_theft.jpg)
+<center>
+<a href="https://www.deviantart.com/1995express/art/A-I-is-theft-941088405">Explaination and Credit</a>
+</center>
 <br>
 &nbsp;
 <br>
@@ -179,14 +201,17 @@ In 2020 he and Katherine Elkins published "Can GPT-3 pass a Writer’s Turing Te
 
 
 ![txt2img AI Models](./images/img_ai_txt2img_big3.jpg)
-
+<center>
+<a href="https://aiartists.org/ai-generated-art-tools">AI Generated Art Tools</a>
 <br>
 &nbsp;
 <br>
 <hr>
 
 ![LexicaArt Gallary](./images/lexicaart_gallary.jpg)
-
+<center>
+<a href="#ai-art-galleries">AI Art Galleries</a>
+</center>
 <br>
 &nbsp;
 <br>
@@ -195,7 +220,9 @@ In 2020 he and Katherine Elkins published "Can GPT-3 pass a Writer’s Turing Te
 
 
 ![ChatGPT Homescreen](./images/chatgpt_homescreen.jpg)
-
+<center>
+<a href="https://chat.openai.com">Open AI ChatGPT</a>
+</center>
 
 <br>
 &nbsp;
@@ -203,6 +230,9 @@ In 2020 he and Katherine Elkins published "Can GPT-3 pass a Writer’s Turing Te
 <hr>
 
 ![GenAI Plagiarism Detection](./images/genai_plagiarism_detection.jpg)
+<center>
+<a href="http://gltr.io/">IBM/MIT-Harvard NLP GianT Language test Room (GTLR)</a>
+</center>
 
 <br>
 &nbsp;
@@ -211,7 +241,9 @@ In 2020 he and Katherine Elkins published "Can GPT-3 pass a Writer’s Turing Te
 
 
 ![AI Timeline Pre-ChatGPT](./images/timeline_pre_chatgpt.jpg)
-
+<center>
+<a href="https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/">Sequoia Capital: Generative AI, A creative new world</a>
+</center>
 <br>
 &nbsp;
 <br>
