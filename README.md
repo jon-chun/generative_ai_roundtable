@@ -28,10 +28,26 @@ Prof Katherine Elkins has published on literature, philosophy and aesthetics and
 Bring your curiosity, skepticism and concerns to this community event sponsored by the AI DHColab. 
 
 &nbsp;
+# **Contents**
+<a href="#generative-ai">Generative AI</a>
+<a href="#chat">ChatGPT Prompt Engineering</a>
+<a href="">GPT Plagiarism Detection</a>
+<a href="#gpt-plagiarisim-evasion">GPT Plagiarism Evasion</a>
+<a href="#gpt-and-the-death-of-the-essay">GPT and the Death of the Essay</a>
+<a href="#ai-art-galleries">AI Art Galleries</a>
+<a href="#ai-art-communities">AI Art Communities</a>
+<a href="#ai-art-prompt-engineering">AI Art Prompt Engineering</a>
+<a href="#stable-diffusion">Stable Diffusion</a>
+<a href="#sample-ai-applications">Sample AI Applications</a>
+<a href="#disrupted-services">Disrupted Services</a>
+<a href="#generative-ai-lawsuits">Generative AI Lawsuits</a>
+<a href="#try-for-free">Try for Free</a>
+<a href="#hosting">Hosting</a>
+
 ---
 # **References**
 
-### **GenerativeA AI**
+### **Generative AI**
 * <a href="https://github.com/steven2358/awesome-generative-ai">Awesome Generative AI</a>
 
 ### **ChatGPT Prompt Engineering**
@@ -86,12 +102,20 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 
 ### **Sample AI Applications**
 * <a href="https://www.youtube.com/watch?v=ZFQ1WufLWwo">Midjourncy Designs a Shopify Website</a>
+* <a href="https://www.youtube.com/watch?v=aCVL9qz6IV0">Augment Blender 3D Design/Game Assets</a>
 * <a href="https://www.youtube.com/watch?v=K0cmmKPklp4">ChatGPT Takes an Astrophysics Exam</a>
 * <a href="https://www.youtube.com/watch?v=OV88YP34O8U">(One-shot) Midjourney Illustrates of a story written by ChatGPT, Narrated by Adobe</a> 
 * <a href="https://github.com/fauxpilot/fauxpilot">Write code</a>
 * <a href="https://qantarot.substack.com/p/chatgpt-and-galactica-are-taking     ">Write academic research papers</a>
 * <a href="https://twitter.com/hausman_k/status/1613544838900903937">Embodied AI (LLM + Robotics)</a>
 
+### **Disrupted Services**
+* <a href="">Google</a>
+* <a href="https://www.youtube.com/watch?v=IbDAmvUwo5c">Stack Overflow</a>
+* <a href="">Getty Images</a>
+### **Generative AI Lawsuits**
+* <a href="https://stablediffusionlitigation.com/">Stable Diffusion</a> (Generative Art)
+* <a href="https://githubcopilotlitigation.com/">Copilot</a> (Generative Code)
 ### **Try for Free** (as of 14 Jan 2023)
 * <a href="https://chat.openai.com">Open AI ChatGPT</a>
 * <a href="https://playgroundai.com/">PalyGroundAI.com</a>
