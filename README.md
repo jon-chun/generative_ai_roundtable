@@ -29,20 +29,20 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 
 &nbsp;
 # **Contents**
-<a href="#generative-ai">Generative AI</a>
-<a href="#chat">ChatGPT Prompt Engineering</a>
-<a href="">GPT Plagiarism Detection</a>
-<a href="#gpt-plagiarisim-evasion">GPT Plagiarism Evasion</a>
-<a href="#gpt-and-the-death-of-the-essay">GPT and the Death of the Essay</a>
-<a href="#ai-art-galleries">AI Art Galleries</a>
-<a href="#ai-art-communities">AI Art Communities</a>
-<a href="#ai-art-prompt-engineering">AI Art Prompt Engineering</a>
-<a href="#stable-diffusion">Stable Diffusion</a>
-<a href="#sample-ai-applications">Sample AI Applications</a>
-<a href="#disrupted-services">Disrupted Services</a>
-<a href="#generative-ai-lawsuits">Generative AI Lawsuits</a>
-<a href="#try-for-free">Try for Free</a>
-<a href="#hosting">Hosting</a>
+* <a href="#generative-ai">Generative AI</a>
+* <a href="#chat">ChatGPT Prompt Engineering</a>
+* <a href="">GPT Plagiarism Detection</a>
+* <a href="#gpt-plagiarisim-evasion">GPT Plagiarism Evasion</a>
+* <a href="#gpt-and-the-death-of-the-essay">GPT and the Death of the Essay</a>
+* <a href="#ai-art-galleries">AI Art Galleries</a>
+* <a href="#ai-art-communities">AI Art Communities</a>
+* <a href="#ai-art-prompt-engineering">AI Art Prompt Engineering</a>
+* <a href="#stable-diffusion">Stable Diffusion</a>
+* <a href="#sample-ai-applications">Sample AI Applications</a>
+* <a href="#disrupted-services">Disrupted Services</a>
+* <a href="#generative-ai-lawsuits">Generative AI Lawsuits</a>
+* <a href="#try-for-free">Try for Free</a>
+* <a href="#hosting">Hosting</a>
 
 ---
 # **References**
