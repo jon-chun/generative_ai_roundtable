@@ -69,7 +69,9 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 * <a href="http://www.trywordai.com">TryWordAI.com</a> (paid)
 * and many more free alternatives
 
-### **GPT and the Death of the Essay**
+### **ChatGPT and Rethinking the College Essay**
+* <a href="https://www.insidehighered.com/blogs/higher-ed-gamma/chatgpt-threat-or-menace">ChatGPT: Threat or Menace?</a> by Steven Mintz, Insider Higher Ed (16 Jan 2023)
+* <a href="https://www.forbes.com/sites/tomaspremuzic/2023/01/12/how-chatgpt-is-redefining-human-expertise-or-how-to-be-smart-when-ai-is-smarter-than-you/?sh=7d3bd00e5402">How ChatGPT Is Redefining Human Expertise: Or How To Be Smart When AI Is Smarter Than You.</a> by Tomas Chamorro-Premuzic, Forbes (12 Jan 2023)
 * <a href="https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/">The College Essay is Dead</a> by Stephen Marche, The Atlantic, Dec 6th, 2023
 * <a href="https://arxiv.org/abs/2212.11661">The Death of the Short-Form Physics Essay in the Coming AI Revolution (Dec 22th)</a>
 * <a href="https://arxiv.org/abs/2212.09292">ChatGPT: The End of Online Exam Integrity? (Dec 19th)</a>
@@ -100,7 +102,7 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
   -  with <a href="https://miro.com/app/board/uXjVP1DfqDg=/?share_link_id=306860251792">Miro Board Notes</a>
 * <a href="https://civitai.com/models/86/openjourney-aka-midjourney-v4">OpenJourney Model</a>
 
-### **Sample AI Applications**
+### **AI Applications**
 * <a href="https://www.youtube.com/watch?v=ZFQ1WufLWwo">Midjourncy Designs a Shopify Website</a>
 * <a href="https://www.youtube.com/watch?v=aCVL9qz6IV0">Augment Blender 3D Design/Game Assets</a>
 * <a href="https://www.youtube.com/watch?v=K0cmmKPklp4">ChatGPT Takes an Astrophysics Exam</a>
