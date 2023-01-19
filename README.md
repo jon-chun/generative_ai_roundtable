@@ -6,7 +6,14 @@
 <br>
 
 ## **UPDATE**
-<a href="./chatgpt_essay_immigration_prompt_walkthru.html">ChatGPT Essay on Immigration - Prompt Walkthru</a> (Roundtable Demo)
+Here mis a more complete transcript using ChatGPT and prompt engineering sequencing to generate the essay and Tweets the topic of immigration (began this transcript in the Roundtable session):
+
+* <a href="./docs/immigration_prompt_walkthru.txt">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.txt)
+
+* <a href="./docs/chatgpt_essay_immigration_prompt_walkthru.docx">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.docx)
+
+* <a href="./docs/chatgpt_essay_immigration_prompt_walkthru.docx">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.html)
+
 <hr>
 <br>
 &nbsp;
