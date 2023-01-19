@@ -5,6 +5,14 @@
 &nbsp;
 <br>
 
+## **UPDATE**
+<a href="./chatgpt_essay_immigration_prompt_walkthru.html">ChatGPT Essay on Immigration - Prompt Walkthru</a> (Roundtable Demo)
+<hr>
+<br>
+&nbsp;
+<br>
+
+
 
 Artificial Intelligence models that can generate writing and art have exploded into the public consciousness faster than any previous technology. Within only 5 days <a href="https://openai.com/blog/chatgpt/">ChatGPT</a> attracted one million users, a feat that took DALL-E, Instagram and the original iPhone each approximately 75 days to achieve.
 
@@ -270,6 +278,28 @@ In 2020 he and Katherine Elkins published "Can GPT-3 pass a Writer’s Turing Te
 <center>
 <a href="https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/">Sequoia Capital: Generative AI, A creative new world</a>
 </center>
+
+<br>
+&nbsp;
+<br>
+<hr>
+
+
+![John von Neumann 5 parameters](./images/johnvonneumann_4paramselephant_5trunk_1trillion.jpg)
+<center>
+<a href="https://en.wikipedia.org/wiki/Von_Neumann%27s_elephant">John von Neumann's Elephan</a>
+</center>
+<br>
+&nbsp;
+<br>
+<hr>
+
+
+![Any Sufficiently Advanced Technology](./images/sufficiently_advanced_technology_acc.webp)
+<center>
+<a href="hhttps://en.wikipedia.org/wiki/Clarke%27s_three_laws">Clarke's Three Laws</a>
+</center>
+
 <br>
 &nbsp;
 <br>
