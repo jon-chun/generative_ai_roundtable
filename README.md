@@ -6,13 +6,19 @@
 <br>
 
 ## **UPDATE**
-Here mis a more complete transcript using ChatGPT and prompt engineering sequencing to generate the essay and Tweets the topic of immigration (began this transcript in the Roundtable session):
+Here is a video of the ChatGPT and Generative AI Art Roundtable held in the Gund Art Gallary on Kenyon College (Jan 17th, 2023).
+
+<a href="https://vimeo.com/790505372/656a77df0f">Vimeo Video of Roundtable</a>
+
+Here is a more complete ChatGPT transcript to generate the essay on immigration we began in the Roundtable session:
 
 * <a href="./docs/chatgpt_essay_immigration_prompt_walkthru.txt">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.txt)
 
 * <a href="./docs/chatgpt_essay_immigration_prompt_walkthru.docx">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.docx)
 
 * <a href="./docs/chatgpt_essay_immigration_prompt_walkthru.docx">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.html)
+
+
 
 <hr>
 <br>
@@ -44,6 +50,7 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 
 &nbsp;
 # **Contents**
+* <a href="#generative-ai-use-cases">ChatGPT Use Cases</a>
 * <a href="#generative-ai">Generative AI</a>
 * <a href="#chat">ChatGPT Prompt Engineering</a>
 * <a href="">GPT Plagiarism Detection</a>
@@ -62,10 +69,26 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 ---
 # **References**
 
+### **Generative AI Use Cases**
+* Compiled from this <a href="https://twitter.com/petergyang/status/1615778560035418112">Tweet by @petergyang</a>
+* Technical
+  * SQL Scripts
+* Business
+  * Marketing/Sales Copy
+  * Structuring Form Emails
+* Creative
+  * Fanfic Graphic Novel Scripts
+* Personal
+  * distill and organize stream consiousness speech to text notes
+  * recipies constrained by whats in the fridge now
+  * story writing for children
+
+
 ### **Generative AI**
 * <a href="https://github.com/steven2358/awesome-generative-ai">Awesome Generative AI</a>
 
-### **ChatGPT Prompt Engineering**
+### **Prompt Engineering**
+* <a href="https://www.futuretools.io/?tags=prompt-guides">FutureTools.io Prompt Guides</a>
 * <a href="https://github.com/openai/openai-cookbook">OpenAI Prompt Cookbook</a>
 * <a href="https://github.com/f/awesome-chatgpt-prompts">f/awesome-chatgpt-prompts</a>
 * <a href="https://github.com/thunlp/PromptPapers">Prompt Research Papers</a>
@@ -97,6 +120,7 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 * <a href="https://lexica.art/">https://lexica.art/</a>
 * <a href="https://openart.ai/">https://openart.ai/</a>
 * <a href="https://www.midjourney.com/showcase/recent/">https://www.midjourney.com/showcase/recent/</a>
+* <a href="https://playgroundai.com/">playgroundai.com</a>
 
 ### **AI Art Communities**
 * <a href="https://www.youtube.com/watch?v=o09F6TViIGk">The End of Original Art? Current Issues with AI Art and Ethics</a>
