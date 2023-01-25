@@ -7,6 +7,18 @@
 
 ## **UPDATE**
 
+Here is a video of the ChatGPT and Generative AI Art Roundtable held in the Gund Art Gallary on Kenyon College (Jan 17th, 2023).
+
+<a href="https://vimeo.com/790505372/656a77df0f">Vimeo Video of Roundtable</a>
+
+Here is a more complete ChatGPT transcript to generate the essay on immigration we began in the Roundtable session:
+
+* <a href="./docs/chatgpt_essay_immigration_prompt_walkthru.txt">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.txt)
+
+* <a href="./docs/chatgpt_essay_immigration_prompt_walkthru.docx">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.docx)
+
+* <a href="./docs/chatgpt_essay_immigration_prompt_walkthru.docx">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.html)
+
 Our Recommendations to Kenyon faculty regarding ChatGPT (25 Jan 2023):
 
 1. It's pretty easy to bypass any plagiarism detection mechanisms, so we should assume students will quickly figure out how to do this.  
@@ -30,19 +42,6 @@ Other Colleges and Universities are putting out formal guidelines re:ChatGPT:
 * <a href="https://www.montclair.edu/faculty-excellence/practical-responses-to-chat-gpt/">Montclair State University ChatGPT Course Guidelines</a>
 
 * <a href="https://www.google.com/search?q=chatgpt+academic+guidelines+site%3Aedu&client=firefox-b-1-d&sxsrf=AJOqlzXiUmpx_11MzWG-VHWIURpFx3IboA%3A1674629509957&ei=hdHQY-COOoajptQP3uut4A4&ved=0ahUKEwig5ciIkeL8AhWGkYkEHd51C-wQ4dUDCA8&uact=5&oq=chatgpt+academic+guidelines+site%3Aedu&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQA0oECEEYAUoECEYYAFCnBlinBmC_C2gCcAB4AIABRYgBRZIBATGYAQCgAQHAAQE&sclient=gws-wiz-serp">And many more Academic Guidelines for ChatGPT</a>
-
-Here is a video of the ChatGPT and Generative AI Art Roundtable held in the Gund Art Gallary on Kenyon College (Jan 17th, 2023).
-
-<a href="https://vimeo.com/790505372/656a77df0f">Vimeo Video of Roundtable</a>
-
-Here is a more complete ChatGPT transcript to generate the essay on immigration we began in the Roundtable session:
-
-* <a href="./docs/chatgpt_essay_immigration_prompt_walkthru.txt">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.txt)
-
-* <a href="./docs/chatgpt_essay_immigration_prompt_walkthru.docx">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.docx)
-
-* <a href="./docs/chatgpt_essay_immigration_prompt_walkthru.docx">ChatGPT Essay on Immigration - Prompt Walkthru</a> (*.html)
-
 
 
 <hr>
