@@ -6,6 +6,19 @@
 <br>
 
 ## **UPDATE**
+
+Our Recommendations to Kenyon faculty regarding ChatGPT (25 Jan 2023):
+
+a) It's pretty easy to bypass any plagiarism detection mechanisms, so we should assume students will quickly figure out how to do this.  
+
+b) It's easy to install a plug-in to do web search in addition to the text generation. This bypasses the limitations of the training dataset and even generate up-to-date citations.
+
+c) An enterprising student could also "fine-tune" on a textbook or novel, thus giving it the capabilities to write answers specifically informed by and tailored to the textbook or novel
+
+d) GPT is moving to a paid model, with access that could be limited for those without a subscription. This should immediately raise concerns about access: those students who can afford it will have a powerful tool at their disposal. 
+
+e) So far we have not seen any kind of academic account/access, although they usually have closed researcher-only access for beta testing of new models.
+
 Here is a video of the ChatGPT and Generative AI Art Roundtable held in the Gund Art Gallary on Kenyon College (Jan 17th, 2023).
 
 <a href="https://vimeo.com/790505372/656a77df0f">Vimeo Video of Roundtable</a>
@@ -165,6 +178,7 @@ Bring your curiosity, skepticism and concerns to this community event sponsored 
 
 ### **Hosting**
 
+* <a href="https://twitter.com/LangChainAI/status/1618014827288629249">With LangChain</a>
 * <a href="https://colab.research.google.com/signup">Google Colab Pro ($9.99/mo)</a>
 * <a href="https://www.runpod.io">RunPod.io</a>
 
